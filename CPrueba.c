@@ -10,4 +10,6 @@ int main (){
             printf("Hola perros\n");
         else
             printf("Chau perros\n");
+
+    printf ("\n###Megadeth###\n");
 }
